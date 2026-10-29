@@ -22,3 +22,4 @@ Thumbs.db
 ## Crash and diagnostic files
 *.crash
 *.dump
+dump_*.sql
